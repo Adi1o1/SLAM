@@ -1,3 +1,3 @@
 # SLAM
 
-# Coding SLAM Algorthm
+# Coding SLAM Algorithm
